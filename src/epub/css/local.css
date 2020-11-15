@@ -25,3 +25,32 @@ section[epub|type~="dedication"] > *{
 	}
 }
 /* End all dedications */
+
+/* letters */
+[epub|type~="z3998:letter"] header{
+	font-style: italic;
+	text-align: center;
+}
+
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
+/* end of letters */
+
+/* song */
+[epub|type~="z3998:song"] p{
+	text-align: left;
+	text-indent: 0;
+}
+
+[epub|type~="z3998:song"] p > span{
+	display: block;
+	text-indent: -1em;
+	padding-left: 1em;
+}
+
+[epub|type~="z3998:song"] p > span + br{
+	display: none;
+}
+/* end of song */
