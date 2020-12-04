@@ -6,6 +6,12 @@ blockquote[xml|lang]{
 	font-style: italic;
 }
 
+/* location-specific */
+#chapter-10 blockquote > header{
+	margin-bottom: 1em;
+}
+/* end of location-specific */
+
 /* All dedications */
 section[epub|type~="dedication"] > *{
 	display: inline-block;
