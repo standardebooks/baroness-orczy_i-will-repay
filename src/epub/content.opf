@@ -39,7 +39,8 @@
 		<meta property="group-position" refines="#collection-1">2</meta>
 		<dc:description id="description">A young woman pursues revenge against the man who killed her brother in a duel years before.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;The young Vicomte de Marny rashly challenges a French official to a duel, and dies as a result. The Vicomte’s father, the ancient Duc de Marny, insists that his daughter, Juliette, swear an oath before God to seek revenge on the man who killed her brother. Years later, as the French Revolution rages, Juliette insinuates herself into the official’s household, and quickly discovers a way to anonymously accuse him before the National Convention. It will take all of the Scarlet Pimpernel's ingenuity to rescue his friend from the guillotine.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;I Will Repay&lt;/i&gt; is the first of the many sequels that &lt;a href="https://standardebooks.org/ebooks/baroness-orczy"&gt;Baroness Orczy&lt;/a&gt; wrote after the phenomenal success of the book and play versions of &lt;a href="https://standardebooks.org/ebooks/baroness-orczy/the-scarlet-pimpernel"&gt;The Scarlet Pimpernel&lt;/a&gt;. In this first sequel, she leaves him mostly in the background until the denouement, when the Pimpernel once more must use all of his skills in disguise and subterfuge to rescue a friend and his household.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/5090</dc:source>
