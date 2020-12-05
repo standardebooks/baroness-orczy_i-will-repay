@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/baroness-orczy/i-will-repay</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2020-12-05T23:58:26Z</dc:date>
+		<meta property="dcterms:modified">2020-12-05T23:58:26Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -40,14 +40,14 @@
 		<dc:description id="description">A young woman pursues revenge against the man who killed her brother in a duel years before.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;The young Vicomte de Marny rashly challenges a French official to a duel, and dies as a result. The Vicomte’s father, the ancient Duc de Marny, insists that his daughter, Juliette, swear an oath before God to seek revenge on the man who killed her brother. Years later, as the French Revolution rages, Juliette insinuates herself into the official’s household, and quickly discovers a way to anonymously accuse him before the National Convention. It will take all of the Scarlet Pimpernel’s ingenuity to rescue his friend from the guillotine.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;I Will Repay&lt;/i&gt; is the first of the many sequels that &lt;a href="https://standardebooks.org/ebooks/baroness-orczy"&gt;Baroness Orczy&lt;/a&gt; wrote after the phenomenal success of the book and play versions of &lt;a href="https://standardebooks.org/ebooks/baroness-orczy/the-scarlet-pimpernel"&gt;The Scarlet Pimpernel&lt;/a&gt;. In this first sequel, she leaves him mostly in the background until the denouement, when the Pimpernel once more must use all of his skills in disguise and subterfuge to rescue a friend and his household.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;I Will Repay&lt;/i&gt; is the first of the many sequels that &lt;a href="https://standardebooks.org/ebooks/baroness-orczy"&gt;Baroness Orczy&lt;/a&gt; wrote after the phenomenal success of the book and play versions of &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/baroness-orczy/the-scarlet-pimpernel"&gt;The Scarlet Pimpernel&lt;/a&gt;&lt;/i&gt;. In this first sequel, she leaves him mostly in the background until the denouement, when the Pimpernel once more must use all of his skills in disguise and subterfuge to rescue a friend and his household.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/5090</dc:source>
 		<dc:source>https://archive.org/details/iwillrepayaroma00orczgoog</dc:source>
 		<meta property="se:production-notes">The transcription replaced phrase-ending em-dashes with ellipses for some inexplicable reason; this production restores the em-dashes.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">64212</meta>
+		<meta property="se:reading-ease.flesch">68.91</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/I_Will_Repay</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/baroness-orczy_i-will-repay</meta>
 		<dc:creator id="author">Baroness Orczy</dc:creator>
@@ -77,6 +77,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
