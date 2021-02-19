@@ -46,7 +46,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/5090</dc:source>
 		<dc:source>https://archive.org/details/iwillrepayaroma00orczgoog</dc:source>
 		<meta property="se:production-notes">The transcription replaced phrase-ending em-dashes with ellipses for some inexplicable reason; this production restores the em-dashes.</meta>
-		<meta property="se:word-count">64212</meta>
+		<meta property="se:word-count">64214</meta>
 		<meta property="se:reading-ease.flesch">68.91</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/I_Will_Repay</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/baroness-orczy_i-will-repay</meta>
