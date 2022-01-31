@@ -48,8 +48,8 @@ section[epub|type~="dedication"] > *{
 }
 
 footer{
-	margin-top: 1em;
 	font-style: italic;
+	margin-top: 1em;
 }
 /* end of letters */
 
