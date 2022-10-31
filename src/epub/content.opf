@@ -35,7 +35,7 @@
 		<meta property="se:subject">Fiction</meta>
 		<meta id="collection-1" property="belongs-to-collection">Scarlet Pimpernel</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
-		<meta property="group-position" refines="#collection-1">2</meta>
+		<meta property="group-position" refines="#collection-1">8</meta>
 		<dc:description id="description">A young woman pursues revenge against the man who killed her brother in a duel years before.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;The young Vicomte de Marny rashly challenges a French official to a duel, and dies as a result. The Vicomte’s father, the ancient Duc de Marny, insists that his daughter, Juliette, swear an oath before God to seek revenge on the man who killed her brother. Years later, as the French Revolution rages, Juliette insinuates herself into the official’s household, and quickly discovers a way to anonymously accuse him before the National Convention. It will take all of the Scarlet Pimpernel’s ingenuity to rescue his friend from the guillotine.&lt;/p&gt;
