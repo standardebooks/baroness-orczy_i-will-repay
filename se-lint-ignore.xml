@@ -2,6 +2,7 @@
 <se-lint-ignore>
 	<file path="chapter-10.xhtml">
 		<ignore code="c-010">
+			<line>48</line>
 			<reason>Footer is styled to match page scans.</reason>
 		</ignore>
 	</file>
