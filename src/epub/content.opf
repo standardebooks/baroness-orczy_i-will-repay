@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/baroness-orczy/i-will-repay</dc:identifier>
 		<dc:date>2020-12-05T23:58:26Z</dc:date>
@@ -38,11 +38,11 @@
 		<meta id="collection-1" property="belongs-to-collection">Scarlet Pimpernel</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">8</meta>
-		<dc:description id="description">A young woman pursues revenge against the man who killed her brother in a duel years before.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A young woman pursues revenge against the man who killed her brother in a duel years before.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;The young Vicomte de Marny rashly challenges a French official to a duel, and dies as a result. The Vicomte’s father, the ancient Duc de Marny, insists that his daughter, Juliette, swear an oath before God to seek revenge on the man who killed her brother. Years later, as the French Revolution rages, Juliette insinuates herself into the official’s household, and quickly discovers a way to anonymously accuse him before the National Convention. It will take all of the Scarlet Pimpernel’s ingenuity to rescue his friend from the guillotine.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;I Will Repay&lt;/i&gt; is the first of the many sequels that &lt;a href="https://standardebooks.org/ebooks/baroness-orczy"&gt;Baroness Orczy&lt;/a&gt; wrote after the phenomenal success of the book and play versions of &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/baroness-orczy/the-scarlet-pimpernel"&gt;The Scarlet Pimpernel&lt;/a&gt;&lt;/i&gt;. In this first sequel, she leaves him mostly in the background until the denouement, when the Pimpernel once more must use all of his skills in disguise and subterfuge to rescue a friend and his household.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/5090</dc:source>
 		<dc:source>https://archive.org/details/iwillrepayaroma00orczgoog</dc:source>
