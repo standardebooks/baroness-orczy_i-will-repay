@@ -62,7 +62,7 @@
 		<dc:contributor id="artist">Élisabeth Vigée Le Brun</dc:contributor>
 		<meta property="file-as" refines="#artist">Le Brun, Elisabeth Vigée</meta>
 		<meta property="schema:alternateName" refines="#artist">Élisabeth Louise Vigée Le Brun</meta>
-		<link href="https://en.wikipedia.org/wiki/Élisabeth_Vigée_Le_Brun" refines="#artist" rel="schema:sameAs"/>
+		<link href="https://en.wikipedia.org/wiki/%C3%89lisabeth_Vig%C3%A9e_Le_Brun" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n82110153.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Walter Debeuf</dc:contributor>
